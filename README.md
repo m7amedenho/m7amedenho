@@ -138,18 +138,12 @@
 
 ## 2026 Roadmap
 
-<div align="center">
-
-| Status | Goal |
-|:------:|:-----|
-| [ ] | Deploy a production-grade LLM system inside a real company |
-| [ ] | Launch first commercial SaaS product to market |
-| [ ] | Integrate AI pipelines into 3+ production systems |
-| [ ] | Publish Flutter mobile app to both stores |
-| [ ] | Reach 100 GitHub stars across repositories |
-| [ ] | Build systems actively used by 10 or more companies |
-
-</div>
+- [ ] Deploy a production-grade LLM system inside a real company
+- [ ] Launch first commercial SaaS product to market
+- [ ] Integrate AI pipelines into 3+ production systems
+- [ ] Publish Flutter mobile app to both stores
+- [ ] Reach 100 GitHub stars across repositories
+- [ ] Build systems actively used by 10 or more companies
 
 ---
 
