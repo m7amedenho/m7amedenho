@@ -106,12 +106,6 @@ class MohamedHamed:
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=m7amedenho&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7amedenho&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
-
-</div>
 
 <div align="center">
 
@@ -129,23 +123,6 @@ class MohamedHamed:
 
 ## 🔥 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/m7amedenho/erp-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m7amedenho&repo=erp-system&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
-</a>
-<a href="https://github.com/m7amedenho/agricultural-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m7amedenho&repo=agricultural-management&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
-</a>
-<a href="https://github.com/m7amedenho/saas-accounting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m7amedenho&repo=saas-accounting&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
-</a>
-<a href="https://github.com/m7amedenho/sales-ai-evaluation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m7amedenho&repo=sales-ai-evaluation&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
-</a>
-
-</div>
-
 <br/>
 
 | Project | Description | Stack |
@@ -159,7 +136,7 @@ class MohamedHamed:
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 <div align="center">
 
@@ -169,7 +146,7 @@ class MohamedHamed:
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] 🧠 Build a production-grade LLM system for a real company
 - [ ] 🚀 Launch first commercial SaaS product
@@ -197,8 +174,6 @@ class MohamedHamed:
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a1a4e,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 **✨ "I don't just write code… I build systems that solve real problems." ✨**
 
