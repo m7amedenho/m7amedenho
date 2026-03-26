@@ -114,13 +114,6 @@
 
 ## GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=m7amedenho&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=7c3aed&text_color=c084fc&bg_color=00000000&count_private=true" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7amedenho&layout=compact&theme=transparent&hide_border=true&title_color=a855f7&text_color=c084fc&bg_color=00000000&langs_count=8" height="180" />
-
-</div>
 
 <div align="center">
 
