@@ -15,42 +15,9 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-```python
-class MohamedHamed:
-    name       = "Mohamed Hamed  |  محمد حامد"
-    title      = ["LLM System Engineer", "Full Stack Developer", "SaaS Builder"]
-    education  = "Mathematics — Al-Azhar University 🎓📐"
-    location   = "Cairo, Egypt 🇪🇬"
-
-    current_work = [
-        "🧠 Building LLM-powered business systems",
-        "🏢 Agricultural Company Management System",
-        "📊 SaaS Multi-tenant Accounting Platform",
-        "🤖 AI-powered Sales Representative Evaluation",
-        "💰 Gold Price Tracking App (Egypt Market)",
-    ]
-
-    skills = {
-        "AI / LLM"  : ["LangChain", "LlamaIndex", "RAG Systems", "Prompt Engineering",
-                        "OpenAI API", "Gemini API", "Vector DBs", "Fine-tuning"],
-        "frontend"  : ["Next.js", "React", "Flutter", "TypeScript", "Tailwind", "ShadCN"],
-        "backend"   : [".NET", "Laravel", "ABP Framework", "FastAPI", "Node.js"],
-        "database"  : ["PostgreSQL", "MySQL", "Prisma", "TiDB", "Pinecone", "ChromaDB"],
-        "math"      : ["Linear Algebra", "Calculus", "Probability & Statistics",
-                       "Discrete Math", "Numerical Methods"],
-        "design"    : ["Motion Graphics", "3D Design", "UI/UX", "Figma"],
-    }
-
-    fun_fact = "I use math every day — from matrix ops in ML to query optimization 🔢"
-```
 
 ---
-
-## 🛠️ Tech Stack
+## 🛠️ Knowledge
 
 <div align="center">
 
@@ -101,6 +68,41 @@ class MohamedHamed:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+---
+
+---
+
+## 👨‍💻 About Me
+
+```python
+class MohamedHamed:
+    name       = "Mohamed Hamed  |  محمد حامد"
+    title      = ["LLM System Engineer", "Full Stack Developer", "SaaS Builder"]
+    education  = "Mathematics — Al-Azhar University 🎓📐"
+    location   = "Cairo, Egypt 🇪🇬"
+
+    current_work = [
+        "🧠 Building LLM-powered business systems",
+        "🏢 Agricultural Company Management System",
+        "📊 SaaS Multi-tenant Accounting Platform",
+        "🤖 AI-powered Sales Representative Evaluation",
+        "💰 Gold Price Tracking App (Egypt Market)",
+    ]
+
+    skills = {
+        "AI / LLM"  : ["LangChain", "LlamaIndex", "RAG Systems", "Prompt Engineering",
+                        "OpenAI API", "Gemini API", "Vector DBs", "Fine-tuning"],
+        "frontend"  : ["Next.js", "React", "Flutter", "TypeScript", "Tailwind", "ShadCN"],
+        "backend"   : [".NET", "Laravel", "ABP Framework", "FastAPI", "Node.js"],
+        "database"  : ["PostgreSQL", "MySQL", "Prisma", "TiDB", "Pinecone", "ChromaDB"],
+        "math"      : ["Linear Algebra", "Calculus", "Probability & Statistics",
+                       "Discrete Math", "Numerical Methods"],
+        "design"    : ["Motion Graphics", "3D Design", "UI/UX", "Figma"],
+    }
+
+    fun_fact = "I use math every day — from matrix ops in ML to query optimization 🔢"
+```
 
 ---
 
