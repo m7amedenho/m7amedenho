@@ -129,7 +129,7 @@
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| **RedGerm** | Enterprise Plant Breeding & Trial Management System — from genetic material to variety release | `Laravel` `React` `Inertia.js` `PostgreSQL` |
+| **RedGerm** | Enterprise Plant Breeding & Trial Management System — from genetic material to variety release | `Laravel` `React` `Inertia.js` `Python` `R Analytics` `PostgreSQL` `Openweb ui` |
 | **Gold Royal** | Real-time gold price tracker for the Egyptian market — global vs local gap display | `Laravel` `React` `Inertia.js` |
 | **Mizan ميزان** | Personal finance & productivity app for Arabic-speaking youth | `React Native` `Expo` `Supabase` |
 | **Farhetna** | Digital wedding invitation micro-SaaS — flat-fee, Egyptian market | `Next.js` `Prisma` `Paymob` `Cloudflare R2` |
