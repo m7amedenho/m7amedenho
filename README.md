@@ -61,17 +61,15 @@
 
 ### Skill Overview
 
-> Levels: **🟢 Expert** — **🟡 Strong** — **🔵 Proficient** · `[Projects]` = total built · `⚡` = AI-assisted (vibe coding)
-
 | Technology | Level | Experience | Projects | AI-Assisted |
 |:-----------|:-----:|:-----------|:--------:|:-----------:|
-| **.NET** | 🟢 Expert | Since 2019 — deepest roots, highest confidence | 30+ | 3 ⚡ |
-| **ABP Framework** | 🟢 Expert | Built a full ERP system end-to-end | 1 large ERP | — |
-| **Next.js** | 🟢 Expert | Since 2022, across SaaS, ERP, client work | 20+ | 3 ⚡ |
-| **React** | 🟢 Expert | Since 2021, core of most web projects | 10+ | 1 ⚡ |
-| **Laravel** | 🟡 Strong | Production deployments, API-first systems | 2 | 1 ⚡ |
-| **Flutter** | 🔵 Proficient | Mobile apps, AI-assisted workflow | 3 | 3 ⚡ |
-| **React Native** | 🔵 Proficient | Cross-platform mobile development | 1 | 1 ⚡ |
+| **.NET** | Expert | Since 2019 — deepest roots, highest confidence | 30+ | 3 |
+| **ABP Framework** | Expert | Built a full ERP system end-to-end | 1 large ERP | — |
+| **Next.js** | Expert | Since 2022, across SaaS, ERP, client work | 20+ | 3 |
+| **React** | Expert | Since 2021, core of most web projects | 10+ | 1 |
+| **Laravel** | Strong | Production deployments, API-first systems | 2 | 1 |
+| **Flutter** | Proficient | Mobile apps, AI-assisted workflow | 3 | 3 |
+| **React Native** | Proficient | Cross-platform mobile development | 1 | 1 |
 
 ---
 
