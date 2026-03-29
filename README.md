@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d12,100:0d0d12&height=160&section=header&text=Mohamed%20Hamed&fontSize=58&fontColor=e2d9f3&fontAlignY=55&fontAlign=50&desc=LLM%20Engineer%20%E2%80%94%20Full%20Stack%20Developer%20%E2%80%94%20SaaS%20Builder&descAlignY=75&descAlign=50&descColor=7c3aed&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d12,100:0d0d12&height=160&section=header&text=Mohamed%20Hamed&fontSize=58&fontColor=e2d9f3&fontAlignY=55&fontAlign=50&desc=Software%20Developer%20%E2%80%94%20LLM%20Engineer%20%E2%80%94%20SaaS%20Builder&descAlignY=75&descAlign=50&descColor=7c3aed&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Building+LLM-Powered+Business+Systems;Full+Stack+Engineer+%7C+.NET+%2B+Next.js+%2B+Laravel;RAG+Systems+%7C+Vector+Databases+%7C+AI+Agents;Mathematics+Graduate+%E2%80%94+Al-Azhar+University;Flutter+Developer+%7C+Mobile+%26+Web;Motion+Graphics+%26+UI%2FUX+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=750&lines=Software+Developer+%7C+7%2B+Years+of+Building+Real+Systems;LLM+Engineer+%7C+RAG+%7C+AI+Agents+%7C+Vector+Databases;Full+Stack+%7C+.NET+%2B+Next.js+%2B+Laravel+%2B+React;Mathematics+Student+%E2%80%94+Al-Azhar+University;Building+AI-Powered+SaaS+%26+ERP+Products;Founder+%40+Red+Tech)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,13 +32,15 @@
 
 </div>
 
+>  **A note on my stack breadth:** Yes, I work across many technologies — and yes, I know that might look scattered at first glance. But every tool here was learned over years of real projects, not weekend tutorials. I didn't collect them; I *built* with them. Each one has production scars. My current focus is **LLM Systems Engineering**, and everything else feeds into that.
+
 ---
 
-## Technical Arsenal
+## AI & LLM Engineering — *Current Focus*
+
+> This is where I'm investing most of my energy right now. Building production-grade LLM systems, RAG pipelines, and AI-powered business tools.
 
 <div align="center">
-
-### Artificial Intelligence & LLM Engineering
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -51,12 +53,39 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
-### Frontend Development
+</div>
+
+---
+
+## Full Stack Engineering
+
+### Skill Overview
+
+> Levels: **🟢 Expert** — **🟡 Strong** — **🔵 Proficient** · `[Projects]` = total built · `⚡` = AI-assisted (vibe coding)
+
+| Technology | Level | Experience | Projects | AI-Assisted |
+|:-----------|:-----:|:-----------|:--------:|:-----------:|
+| **.NET** | 🟢 Expert | Since 2019 — deepest roots, highest confidence | 30+ | 3 ⚡ |
+| **ABP Framework** | 🟢 Expert | Built a full ERP system end-to-end | 1 large ERP | — |
+| **Next.js** | 🟢 Expert | Since 2022, across SaaS, ERP, client work | 20+ | 3 ⚡ |
+| **React** | 🟢 Expert | Since 2021, core of most web projects | 10+ | 1 ⚡ |
+| **Laravel** | 🟡 Strong | Production deployments, API-first systems | 2 | 1 ⚡ |
+| **Flutter** | 🔵 Proficient | Mobile apps, AI-assisted workflow | 3 | 3 ⚡ |
+| **React Native** | 🔵 Proficient | Cross-platform mobile development | 1 | 1 ⚡ |
+
+---
+
+## Technical Arsenal
+
+<div align="center">
+
+### Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
@@ -101,19 +130,19 @@
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
+| **RedGerm** | Enterprise Plant Breeding & Trial Management System — from genetic material to variety release | `Laravel` `React` `Inertia.js` `PostgreSQL` |
+| **Gold Royal** | Real-time gold price tracker for the Egyptian market — global vs local gap display | `Laravel` `React` `Inertia.js` |
+| **Mizan ميزان** | Personal finance & productivity app for Arabic-speaking youth | `React Native` `Expo` `Supabase` |
+| **Farhetna فرحتنا** | Digital wedding invitation micro-SaaS — flat-fee, Egyptian market | `Next.js` `Prisma` `Paymob` `Cloudflare R2` |
 | **LLM Business Assistant** | Enterprise AI assistant with RAG over internal company data | `Python` `LangChain` `FastAPI` `Pinecone` |
-| **ERP System** | Full-scale enterprise resource planning platform | `.NET` `Next.js` `PostgreSQL` |
-| **Agricultural Management System** | Operations, HR and logistics for agricultural companies | `Laravel` `React` `Inertia.js` |
-| **SaaS Accounting Platform** | Multi-tenant accounting system with real-time analytics | `Next.js` `.NET` `ABP Framework` |
+| **ERP System** | Full-scale enterprise resource planning platform | `.NET` `ABP Framework` `Next.js` `PostgreSQL` |
 | **AI Sales Evaluation Engine** | Automated sales rep evaluation powered by LLMs | `FastAPI` `LangChain` `PostgreSQL` |
-| **Gold Price Tracker** | Real-time Egyptian market gold price tracking | `Flutter` `Node.js` |
 
 </div>
 
 ---
 
 ## GitHub Statistics
-
 
 <div align="center">
 
@@ -134,9 +163,9 @@
 - [ ] Deploy a production-grade LLM system inside a real company
 - [ ] Launch first commercial SaaS product to market
 - [ ] Integrate AI pipelines into 3+ production systems
-- [ ] Publish Flutter mobile app to both stores
+- [ ] Publish mobile app to both App Store & Play Store
 - [ ] Reach 100 GitHub stars across repositories
-- [ ] Build systems actively used by 10 or more companies
+- [ ] Build systems actively used by 10+ companies
 
 ---
 
