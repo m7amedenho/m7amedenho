@@ -45,6 +45,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6937f5?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -89,7 +90,7 @@
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 
 ### Backend & Infrastructure
-
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ABP Framework](https://img.shields.io/badge/ABP_Framework-1A6FB5?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -115,7 +116,7 @@
 ### Design & Visual
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 </div>
@@ -131,7 +132,7 @@
 | **RedGerm** | Enterprise Plant Breeding & Trial Management System — from genetic material to variety release | `Laravel` `React` `Inertia.js` `PostgreSQL` |
 | **Gold Royal** | Real-time gold price tracker for the Egyptian market — global vs local gap display | `Laravel` `React` `Inertia.js` |
 | **Mizan ميزان** | Personal finance & productivity app for Arabic-speaking youth | `React Native` `Expo` `Supabase` |
-| **Farhetna فرحتنا** | Digital wedding invitation micro-SaaS — flat-fee, Egyptian market | `Next.js` `Prisma` `Paymob` `Cloudflare R2` |
+| **Farhetna** | Digital wedding invitation micro-SaaS — flat-fee, Egyptian market | `Next.js` `Prisma` `Paymob` `Cloudflare R2` |
 | **LLM Business Assistant** | Enterprise AI assistant with RAG over internal company data | `Python` `LangChain` `FastAPI` `Pinecone` |
 | **ERP System** | Full-scale enterprise resource planning platform | `.NET` `ABP Framework` `Next.js` `PostgreSQL` |
 | **AI Sales Evaluation Engine** | Automated sales rep evaluation powered by LLMs | `FastAPI` `LangChain` `PostgreSQL` |
