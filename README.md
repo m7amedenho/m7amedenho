@@ -143,7 +143,7 @@ A complete system for managing vegetable seed hybridization and breeding workflo
 
 **Technology stack:** Frappe Framework.
 
-### RedGerm
+### RedGerm ( Not Completed )
 
 An enterprise plant breeding and trial management system. The platform
 supports workflows from genetic material management and field trials
@@ -152,13 +152,6 @@ through to variety release.
 **Technology stack:** Laravel, React, Inertia.js, Python, R Analytics,
 PostgreSQL, and OpenWebUI.
 
-### Gold Royal
-
-A real-time gold price tracking platform for the Egyptian market. It
-displays the difference between global gold prices and local market
-prices.
-
-**Technology stack:** Laravel, React, and Inertia.js.
 
 ### Mizan
 
@@ -166,13 +159,6 @@ A personal finance and productivity application designed for
 Arabic-speaking young people.
 
 **Technology stack:** React Native, Expo, and Supabase.
-
-### Farhetna
-
-A digital wedding invitation micro-SaaS platform targeting the Egyptian
-market. It uses a flat-fee business model.
-
-**Technology stack:** Next.js, Prisma, Paymob, and Cloudflare R2.
 
 ### LLM Business Assistant
 
