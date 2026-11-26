@@ -2,6 +2,8 @@
 
 **Software Developer \| LLM Engineer \| SaaS Builder**
 
+**Open source contribution:** merged pull request in [supabase/supabase](https://github.com/supabase/supabase) (116k stars), [#43005](https://github.com/supabase/supabase/pull/43005): docs(auth): clarify ip_address is not included in audit logs.
+
 ## About Me
 
 My name is Mohamed Hamed. I am a software developer and systems engineer
