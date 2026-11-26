@@ -2,7 +2,7 @@
 
 **Software Developer \| LLM Engineer \| SaaS Builder**
 
-**Open source contribution:** merged pull request in [supabase/supabase](https://github.com/supabase/supabase) (116k stars), [#43005](https://github.com/supabase/supabase/pull/43005): docs(auth): clarify ip_address is not included in audit logs.
+**Open source contribution:** Worked on `ip_address` in Supabase audit logs.
 
 ## About Me
 
